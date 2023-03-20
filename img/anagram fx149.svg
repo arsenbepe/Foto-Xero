@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="94.353294mm"
+   height="86.303627mm"
+   viewBox="0 0 94.353295 86.303628"
+   version="1.1"
+   id="svg20111"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="anagram fx149.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20113"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="220.61468"
+     inkscape:cy="291.02362"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1016"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs20108" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.696434,-71.675991)">
+    <g
+       id="g11149"
+       transform="matrix(8.1443971,0,0,8.1443971,-5591.581,-2127.9902)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4633px;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.589902;stroke-opacity:0"
+         x="691.73334"
+         y="280.68005"
+         id="text10375"><tspan
+           sodipodi:role="line"
+           id="tspan10373"
+           style="stroke-width:0.589902"
+           x="691.73334"
+           y="280.68005">X</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.2811px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.579629;stroke-opacity:0"
+         x="690.67975"
+         y="277.0271"
+         id="text10238-63"><tspan
+           sodipodi:role="line"
+           id="tspan10236-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;fill:#000000;stroke-width:0.579629"
+           x="690.67975"
+           y="277.0271">F</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.63712px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.261433;stroke-opacity:0"
+         x="695.84009"
+         y="273.27365"
+         id="text10238-63-8"><tspan
+           sodipodi:role="line"
+           id="tspan10236-4-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;fill:#000000;stroke-width:0.261433"
+           x="695.84009"
+           y="273.27365">149</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;fill:#000000;stroke-width:0.261433"
+           x="695.84009"
+           y="279.23648"
+           id="tspan10404" /></text>
+    </g>
+  </g>
+</svg>

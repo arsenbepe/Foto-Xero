@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Zilla+Slab:wght@700&display=swap");
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-family: "Zilla Slab", serif;
+  background-image: url(/foto\ xero/img/tlo\ wide.svg);
+  background-repeat: no-repeat;
+  background-position: 0vh 12vh;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.logoB {
+  width: 22vh;
+  margin-left: 3%;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin-right: 3%;
+  width: 45%;
+}
+
+li {
+  width: 25%;
+  font-size: 1.2em;
+  padding-left: 0.5em;
+}
+
+.kurwa {
+  margin-right: 0.5em;
+}
+
+section {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.opis {
+  width: 45%;
+}
+
+.prawa {
+  width: 45%;
+}
+
+footer {
+  margin-bottom: 5%;
+}
