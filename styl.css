@@ -1,60 +1,52 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Zilla+Slab:wght@700&display=swap");
 
 body {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
   font-family: "Zilla Slab", serif;
-  background-image: url(/foto\ xero/img/tlo\ wide.svg);
+  background-image: url(/Foto-Xero/img/tloIphone3.svg);
   background-repeat: no-repeat;
-  background-position: 0vh 12vh;
+  background-position: 0 -1em;
   background-attachment: fixed;
-  background-size: cover;
 }
 
 header {
   display: flex;
-  flex-direction: row;
-  width: 100%;
+  height: 7rem;
   justify-content: space-between;
+  padding-bottom: 5rem;
 }
 
 .logoB {
-  width: 22vh;
-  margin-left: 3%;
+  width: 9rem;
 }
 
 .navBar {
   display: flex;
-  flex-direction: row;
-  list-style-type: none;
-  margin-right: 3%;
-  width: 45%;
+  flex-direction: column;
+  align-items: flex-end;
+  position: relative;
+  list-style: none;
+  margin: 0;
+}
+
+.hamburgier {
+  width: 70%;
+  gap: 10px;
+}
+
+.dropMenu {
+  position: absolute;
+  /* right: -200px; */
+  top: 10px;
+}
+
+.ukryty {
+  position: relative;
+  /* display: none; */
 }
 
 li {
-  width: 25%;
-  font-size: 1.2em;
-  padding-left: 0.5em;
-}
-
-.kurwa {
-  margin-right: 0.5em;
-}
-
-section {
-  display: flex;
-  flex-wrap: nowrap;
-}
-
-.opis {
-  width: 45%;
-}
-
-.prawa {
-  width: 45%;
-}
-
-footer {
-  margin-bottom: 5%;
+  width: 7em;
+  padding-top: 5px;
+  border: 5px;
+  border-color: black;
 }
